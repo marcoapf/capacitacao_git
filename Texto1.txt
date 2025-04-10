@@ -1,0 +1,1 @@
+Texto a ser usado para testes na capacitação git
