@@ -1,1 +1,1 @@
-Texto a ser usado para testes na capacitação git
+Projeto capacitação interna Git na Prática
